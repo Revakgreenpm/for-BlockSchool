@@ -1,3 +1,5 @@
+//Written in processing3
+
 import processing.sound.*;
 SinOsc sine1;
 SinOsc sine2;
